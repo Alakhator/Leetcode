@@ -9,7 +9,7 @@ public:
         }
         return sum;
     }
-	/*For -ive numbers in each vector l points to first -ive number so count=size-l. If no -ive number in vector l points to g.size()*/
+	/*For -ive numbers in each vector l point to first -ive number so count=size-l. If no -ive number in vector l points to g.size()*/
 	int c(vector<int>g)
     {
         int l=0;
